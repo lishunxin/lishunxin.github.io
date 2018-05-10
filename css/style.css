@@ -194,7 +194,7 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #999;
+  color: #000;
   margin-bottom: 1em;
   margin-left: 5px;
   line-height: 1em;
@@ -232,7 +232,7 @@ body {
 .article-entry h6,
 .widget h6 {
   font-size: 1em;
-  color: #999;
+  color: #000;
 }
 .article-entry hr,
 .widget hr {
